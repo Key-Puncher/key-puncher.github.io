@@ -1,1 +1,1 @@
-Source code for my personal blog hosted at github.io.
+Source code for blog at key-puncher.github.io
