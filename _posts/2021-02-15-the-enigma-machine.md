@@ -3,14 +3,11 @@ layout: post
 title: The Enigma Machine
 ---
 
-The German [Enigma Machine](https://www.britannica.com/topic/Enigma-German-code-device) is a pretty cool thing.
-
-![Enigma Machine](/public/images/enigma.jpg)
-
-
 An Enigma machine is a famous machine that was believed to be unbreakable. It was used during World War II by the Germans to transmit coded messages. Using a substitution cypher, the machine allows for 158,962,555,217,826,360,000 number of possible encoding combinations for a message. Additionally, the Nazis would change the encoding for messages daily, so that cracking the code for one day would be completely useless the next day.
 
 The machine is made up for many parts, including the keyboard, plugboard, and sets of rotors. The plugboard was a switch board with wires, that can be plugged in to connect two letters into a pair. This indicates a setting where two letters are swapped for each other. The enigma machine takes in three rotors each of which provide different encodings. They can be swapped out and placed in different slots, and the orientation of their letters can change. 
+
+![Enigma Machine](/public/images/enigma.jpg)
 
 For the enigma machine, each time a key was pressed, the entire encoding scheme changes, as rotors move. This means that the message “AA” could be encoded as “BT” even though the same key was used twice.
 
