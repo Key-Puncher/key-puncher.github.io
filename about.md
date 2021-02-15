@@ -3,5 +3,5 @@ layout: page
 title: About
 ---
 <p class="message">
-  Hey there! I am Haisum. I work as software engineer. Linux, open source, managing and streamlining software development process and distributed systems interest me the most. You can mail me at <a href="mailto:haisumbhatti@gmail.com">haisumbhatti@gmail.com</a> to get in touch. Oh! and I love food and reading books. :)
+  Alright-y, time for me to start a blog. My email is at <a href="mailto:alana.y.huang@gmail.com">alana.y.huang@gmail.com</a> and I'm still figuring out how to do this.
 </p>
