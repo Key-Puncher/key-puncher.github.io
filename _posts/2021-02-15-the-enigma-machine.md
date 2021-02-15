@@ -13,8 +13,10 @@ For the enigma machine, each time a key was pressed, the entire encoding scheme 
 
 This huge combinatorial code for incredibly difficult for codebreakers to attack. Because computers were not available, the codes would have needed to be analysed manually. 
 
-# Cracking the Enigma
+### Cracking the Enigma
 
-An allied group of code breakers, including Alan Turning, designed the Bombe machine. It was a process of elimination approach that simulated different enigma machine configurations, in a machine that was essentially many enigma machines all testing different combinations. The codebreakers looked for phrases that were likely to appear. For example, “Heil Hitler” at the end of the message. Since a letter can never be encoded as itself, the codebreakers would compare to see if a letter in the phrase matched up with a letter in the code. If it does, then the code is not that phrase.
+An allied group of code breakers, including Alan Turning, designed the Bombe machine which would crack the code. It was a process of elimination approach that simulated different enigma machine configurations, in a machine that was essentially many enigma machines all testing different settings. The codebreakers looked for phrases that were likely to appear. For example, “Heil Hitler” at the end of the message. Since a letter can never be encoded as itself, the codebreakers would compare to see if a letter in the phrase matched up with a letter in the code. If it does, then the code is not that phrase.
 
 Despite being able to decrypt the German messages, the Allied powers did not act on all information. In order to avoid informing the Nazis that the Enigma had been broken, they acted only on some attacks, and allowed others to go through despite the foreknowledge, so that the Nazis would continue to communicate using the Enigma machine. It was not until the 1970s, 50 years after the war, that the fact that codebreakers had cracked Enigma was declassified.
+
+![Bombe Machine](/public/images/Bletchley_Park_Bombe.jpg)
