@@ -5,7 +5,7 @@ title: The Enigma Machine
 
 An Enigma machine is a famous machine that was believed to be unbreakable. It was used during World War II by the Germans to transmit coded messages. Using a substitution cypher, the machine allows for 158,962,555,217,826,360,000 number of possible encoding combinations for a message. Additionally, the Nazis would change the encoding for messages daily, so that cracking the code for one day would be completely useless the next day.
 
-The machine is made up for many parts, including the keyboard, plugboard, and sets of rotors. The plugboard was a switch board with wires, that can be plugged in to connect two letters into a pair. This indicates a setting where two letters are swapped for each other. The enigma machine takes in three rotors each of which provide different encodings. They can be swapped out and placed in different slots, and the orientation of their letters can change. 
+The machine was made up of many parts, including the keyboard, lampboard, plugboard, and sets of rotors. The keyboard was where each letter was typed, and the lamp board lights up the letter that each typed letter was changed to. The plugboard was a switch board with wires, that can be plugged in to connect two letters into a pair. This indicates a setting where two letters are swapped for each other. The enigma machine takes in three rotors each of which provide different encodings. They can be swapped out and placed in different slots, and the orientation of their letters can change. 
 
 ![Enigma Machine](/public/images/enigma.jpg)
 
