@@ -2,13 +2,24 @@
 <html lang="en-us">
 
   {% include head.html %}
+  
+  <header>
+    <section>
+      <h2>whoami</h2>
+      <p>Hi! I'm Miha. I <a href="https://toshl.com">work</a>. I <a href="https://github.com/mihahribar">code</a>. I <a href="https://twitter.com/mihahribar">tweet</a>. I <a href="http://passittowill.com">play</a>.</p>
+    </section>
+    <section>
+      <h2>ls -l</h2>
+      <p><a href="/">home</a> | <a href="/about">about</a> | <a href="/archive">archive</a></p>
+    </section>
+  </header>
 
   <body class="theme-base-08">
-    {% include sidebar.html %}
+    <!-- {% include sidebar.html %} -->
    
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
+     <!--<div class="wrap">
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
@@ -23,7 +34,7 @@
       </div>
     </div>
 
-    <!--<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+   <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
       (function(document) {
