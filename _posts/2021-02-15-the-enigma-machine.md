@@ -11,7 +11,7 @@ The machine is made up for many parts, including the keyboard, plugboard, and se
 
 For the enigma machine, each time a key was pressed, the entire encoding scheme changes, as rotors move. This means that the message “AA” could be encoded as “BT” even though the same key was used twice.
 
-This huge combinatorial code for incredibly difficult for codebreakers to attack. Because computers were not available, the codes would have needed to be analysed manually. 
+Because computers were not available, this huge combinatorial code was incredibly difficult for codebreakers to attack.
 
 ### Cracking the Enigma
 
