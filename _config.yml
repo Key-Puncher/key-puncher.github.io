@@ -8,7 +8,7 @@ permalink:           pretty
 
 # Setup
 title:               Alana's Blog
-tagline:             <a href="/about">about</a> | <a href="/archives">archive</a></p>
+tagline:             "Just another blog"
 description:         How do I do this again?
 url:                 https://key-puncher.github.io
 baseurl:             /
