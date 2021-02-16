@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Being a Defender: A Human Virus
+title: Being a Defender - A Human Virus
 ---
 
 To think like an attacker, is to think about the weakest points of entry. What would I attack first? It's hard not to notice the similarities in a threat like the coronavirus. Our attackers in this case are not people, but a self-spreading virus that nonetheless exploits the vulnerabilities in the system and in people.
