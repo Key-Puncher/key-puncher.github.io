@@ -3,8 +3,6 @@ layout: post
 title: Garvan Institute Activity Log
 ---
 
-### Activity Log
-
 | Date        | Hours | Activity  |
 | :--------- :|:----:| ---------------- |
 | 1/06/2021  | 7 | Recieved my access badge, and started to look into the code for the project. |
