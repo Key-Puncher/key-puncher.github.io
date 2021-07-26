@@ -3,6 +3,9 @@ layout: post
 title: Garvan Institute Activity Log
 ---
 
+### Garvan Institude 2 Month Placement Activity Log
+Includes the date, hours, and quick summary of work completed.
+
 | Date        | Hours | Activity  |
 | :--------- :|:----:| ---------------- |
 | 1/06/2021  | 7 | Recieved my access badge, and started to look into the code for the project. |
