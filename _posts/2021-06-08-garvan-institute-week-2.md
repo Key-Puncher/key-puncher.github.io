@@ -3,7 +3,9 @@ layout: post
 title: Garvan Institute Week 2
 ---
 
-A review of my first week at Garvan, I believe it went quite well. I have made some good progress on the project to visualise the covid-19 proteome. I was able to touch both the frontend and backend server, fetching the required information and rendering it visually in d3. There's still a significant amount of work to do for each of the components. My collegues have been very helpful in guiding me to the things I needed. It's been gratifying to see the pieces of the project start to take shape.
+### Early Experience
+
+My first week at Garvan went quite well. I made some good progress on the project in visualising the covid-19 proteome. I have touched both the front-end and back-end code already, fetching the required information and rendering it visually using D3. There's still a significant amount of work to do for each of the components, but I have been able to make some headway and it's been gratifying to see some pieces of the project rendered on the new webpage. It's only some of the simple early elements, but I'm slowly assembling the other information required. My collegues have been very helpful in guiding me to the things I needed. Things are going a little more smoothly after getting over the initial challenge of finding a starting point. But now I have a lot of things to work on.
 
 ### Situation, Task, Action, Result
 
