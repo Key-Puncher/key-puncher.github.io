@@ -28,3 +28,6 @@ title: Garvan Institute Activity Log
 | 06/07/2021 | 6 | Got the NSP proteins to work. Next steps are to add a saturation change to collapsed elements and add the starting and ending padding arrows. Also modify the expand buttons to be arrows. |
 | 12/07/2021 | 6 | Was able to get the expand buttons to work, added some reactivity. Now using the accordion layout and the expand buttons are arrows. The collapsed elements and rulers were adjusted to have less white spaces. Arrows now change direction depending on which element is currently expanded. |
 | 13/07/2021 | 6 | More fiddling with design issues. |
+| 16/07/2021 | 6 | Code refactoring |
+| 20/07/2021 | 5 | Added the padding proteins in the margins, allowing the different segments to be continous |
+| 21/07/2021 | 6 | Added the ruler to the top of padding proteins. Discussed with supervisor about the end of the internship and possible contract extensions. |
